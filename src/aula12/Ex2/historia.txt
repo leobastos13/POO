@@ -1,0 +1,162 @@
+a:
+acima: 1
+admirao: 1
+adorava: 1
+agora: 1
+alimentando: 1
+amigo: 1
+animais: 1
+anotaes: 1
+antes: 1
+aprendia: 1
+ave: 1
+aventurava: 1
+
+b:
+bemestar: 1
+
+c:
+cabea: 1
+caderneta: 1
+caminhava: 1
+carne: 1
+casa: 1
+certa: 1
+certo: 1
+chamada: 1
+chegou: 1
+cho: 1
+coisa: 1
+com: 1
+consigo: 1
+continuou: 1
+coruja: 1
+crculos: 1
+crescia: 1
+cuidar: 1
+
+d:
+decidiu: 1
+deixla: 1
+dela: 1
+depois: 1
+desaparecer: 1
+desse: 1
+dia: 1
+
+e:
+ela: 1
+encontrado: 1
+encontrou: 1
+enquanto: 1
+entre: 1
+era: 1
+esperando: 1
+estava: 1
+exerccio: 1
+explorado: 1
+explorando: 1
+explorar: 1
+
+f:
+fazer: 1
+ficheiro: 1
+filhote: 1
+finalmente: 1
+floresta: 1
+fora: 1
+forte: 1
+frente: 1
+
+g:
+gostava: 1
+
+h:
+havia: 1
+hora: 1
+
+l:
+leitura: 1
+levava: 1
+levla: 1
+levou: 1
+libertado: 1
+libertou: 1
+local: 1
+
+m:
+mas: 1
+memrias: 1
+menina: 1
+mgico: 1
+momento: 1
+mundo: 1
+
+n:
+novamente: 1
+novo: 1
+
+o:
+observando: 1
+observar: 1
+onde: 1
+
+p:
+para: 1
+partir: 1
+passar: 1
+passou: 1
+pedaos: 1
+pela: 1
+pequena: 1
+pequenos: 1
+perdido: 1
+perto: 1
+plantas: 1
+poo: 1
+por: 1
+pouco: 1
+preocupada: 1
+pudesse: 1
+
+q:
+quando: 1
+que: 1
+
+r:
+resgatado: 1
+rvores: 1
+
+s:
+sabia: 1
+seguintes: 1
+selvagem: 1
+semanas: 1
+sempre: 1
+sentiuse: 1
+ser: 1
+sofia: 1
+sua: 1
+suas: 1
+suficiente: 1
+
+t:
+tardes: 1
+texto: 1
+tinha: 1
+todas: 1
+triste: 1
+
+u:
+uma: 1
+
+v:
+vez: 1
+vezes: 1
+vida: 1
+vla: 1
+voar: 1
+volta: 1
+voltar: 1
+voou: 1
+
